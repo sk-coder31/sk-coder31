@@ -3,11 +3,14 @@
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
+  
   <a href="https://leetcode.com/sk_31_08_2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/sk_31_08_2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/sk_31_08_2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/sk_31_08_2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-   <a href="https://leetcode.com/sk_31_08_2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
+   <a href="https://leetcode.com/sk_31_08_2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" />
+   <a href="https://leetcode.com/sk_31_08_2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="jyot" height="200" width="200" />
+   </a>
   
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-coder31&label=Profile%20views&color=0e75b6&style=flat" alt="sk-coder31" /> </p>
